@@ -14,12 +14,12 @@ local utility = {}
 -- themes
 local objects = {}
 local themes = {
-    Background = stringtocolor(SettingsT.Background),
-    Glow = stringtocolor(SettingsT.Glow),
-    Accent = stringtocolor(SettingsT.Accent),
-    LightContrast = stringtocolor(SettingsT.LightContrast),
-    DarkContrast = stringtocolor(SettingsT.DarkContrast),  
-    TextColor = stringtocolor(SettingsT.TextColor)
+    Background = Color3.fromRGB(30,30,30),
+    Glow = Color3.fromRGB(100,255,100),
+    Accent = Color3.fromRGB(50,50,50),
+    LightContrast = Color3.fromRGB(130,130,130),
+    DarkContrast = Color3.fromRGB(0,0,0),  
+    TextColor = Color3.fromRGB(200,200,200)
 }
 
 do

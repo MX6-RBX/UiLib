@@ -290,7 +290,7 @@ do
 						Size = UDim2.new(1, -46, 0, 16),
 						ZIndex = 5,
 						Font = Enum.Font.Arimo, 
-						Text = title.."  (UI By MX6)",
+						Text = title.."  (UI By Slender)",
 						TextColor3 = themes.TextColor,
 						TextSize = 18,
 						TextXAlignment = Enum.TextXAlignment.Left
